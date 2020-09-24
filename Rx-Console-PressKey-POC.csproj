@@ -6,4 +6,8 @@
     <RootNamespace>Rx_Console_PressKey_POC</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Reactive" Version="4.4.1" />
+  </ItemGroup>
+
 </Project>
